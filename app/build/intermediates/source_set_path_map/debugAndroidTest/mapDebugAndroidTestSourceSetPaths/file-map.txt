@@ -1,0 +1,4 @@
+uz.yuk24.driver.test.app-androidTest-0 C:\Users\Legion\Desktop\Projects\yuk24driver\app\build\generated\res\resValues\androidTest\debug
+uz.yuk24.driver.test.app-mergeDebugAndroidTestResources-1 C:\Users\Legion\Desktop\Projects\yuk24driver\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+uz.yuk24.driver.test.app-mergeDebugAndroidTestResources-2 C:\Users\Legion\Desktop\Projects\yuk24driver\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+uz.yuk24.driver.test.app-debugAndroidTest-3 C:\Users\Legion\Desktop\Projects\yuk24driver\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources
